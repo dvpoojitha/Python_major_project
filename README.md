@@ -1,4 +1,4 @@
-<img src="./doc/images/githubtitle.png" width="100%">
+[<img src="./doc/images/githubtitle.png" width="100%">
 
 # Real-time Auto License Plate Recognition with Jetson Nano
 
@@ -99,3 +99,4 @@ License Plate Recognition tutorial:
 [3] Howard, Andrew G., et al. "Mobilenets: Efficient convolutional neural networks for mobile vision applications." arXiv preprint arXiv:1704.04861 (2017).
 [4] Bochkovskiy, Alexey, Chien-Yao Wang, and Hong-Yuan Mark Liao. "YOLOv4: Optimal Speed and Accuracy of Object Detection." arXiv preprint arXiv:2004.10934 (2020).
 ```
+](https://github.com/saivasavi08/Python_major_project/tree/main)
